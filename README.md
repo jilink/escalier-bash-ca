@@ -1,2 +1,2 @@
 # escalier-bash-ca
-./esaclier.sh
+./escalier.sh
